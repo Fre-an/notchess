@@ -14,4 +14,4 @@ This Java app uses a standard chess board and pieces, but with new rules. The go
 > - Creating Java GUI by using AWT and Swing libraries.
 > - Object oriented programming and data structures
 
-(React.js, JavaScript, HTML, CSS)
+<img width="692" alt="Screenshot 2023-08-04 at 2 43 56 PM" src="https://github.com/Fre-an/notchess/assets/67911608/9f059dd0-ee6f-463e-a3a7-f8c19f461c6e">
